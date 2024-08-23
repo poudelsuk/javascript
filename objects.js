@@ -41,11 +41,11 @@ console.log(aboutme.hair);  //returns undefined
 const books=[
     {
         name:"kitaab"
-        price:"1000"
+        price:1000
     },
     {
         name:"it is book"
-        edition:"2014"
+        edition:2014
     },
 ]
 console.log(books[0]);
