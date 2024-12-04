@@ -40,5 +40,12 @@ if(aa>bb){
 else{
     console.log("bb is greater");
 }
+//Array
+const ac=["ram","syam","tyam"];
+console.log(ac);
+console.log(ac [0]);
+console.log(ac [1]);
+
+
 
 
